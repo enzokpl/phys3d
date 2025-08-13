@@ -6,6 +6,8 @@ Ele inclui corpos rígidos básicos (esfera/caixa/plano), detecção e resposta 
 A visualização usa um *viewer* 3D com câmera orbital, grid no chão, eixos XYZ, HUD de FPS e interação com o mouse 
 (inclui “arremessar” esferas com clique direito).
 
+![rec-crop](https://github.com/user-attachments/assets/925eb6a8-510d-4b84-8f24-a4b086b24a2e)
+
 ---
 
 ## ✨ Funcionalidades
